@@ -1,0 +1,12 @@
+streamlit
+langchain_community
+pandas
+chromadb
+langchain_groq
+langchain_core
+python-docx
+python-dotenv
+uuid
+
+
+
