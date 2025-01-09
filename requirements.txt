@@ -7,6 +7,5 @@ langchain_core
 python-docx
 python-dotenv
 uuid
-
-
+sqlite>=3.35
 
